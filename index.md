@@ -18,8 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
+1. This is number one
+2. This is number 10 (binary)
 
 **Bold** and _Italic_ and `Code` text
 
