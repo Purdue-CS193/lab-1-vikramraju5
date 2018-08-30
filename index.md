@@ -1,8 +1,8 @@
 #Vik's first CS193 Lab
 
--The instructors are cool
--The lab rooms smells nice
--CS193 will teach me useful tools
+- The instructors are cool
+- The lab rooms smells nice
+- CS193 will teach me useful tools
 
 ## Welcome to GitHub Pages
 
